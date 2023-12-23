@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyRateLimiterExample", "ConcurrencyRateLimiterExample\ConcurrencyRateLimiterExample.csproj", "{A27690BF-9DC0-43DF-864B-9A87E378A60F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{677C3092-DC35-4A20-81C4-29450FE19F44}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A27690BF-9DC0-43DF-864B-9A87E378A60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27690BF-9DC0-43DF-864B-9A87E378A60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27690BF-9DC0-43DF-864B-9A87E378A60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27690BF-9DC0-43DF-864B-9A87E378A60F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
